@@ -11,15 +11,9 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### Connect with me:
 
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="CoderDave.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cdwebsite]
-[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/discord.svg" />][discord]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
-[<img align="left" alt="YouTube Personal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-personal]
-[<img align="left" alt="YouTube Beyond Cameras" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-cameras]
-[<img align="left" alt="Podcast" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/podcast.svg" />][podcast]
 <br />
 
 ### Support me:
@@ -93,20 +87,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 </details>
 
 [website]: https://luisgluna.com/
-[cdwebsite]: https://coderdave.io
 [blog]: https://dev.to/n3wt0n
 [twitter]: https://twitter.com/davidebenvegnu
-[youtube]: https://www.youtube.com/CoderDave
-[youtube-personal]: https://www.youtube.com/DavideBenvegnu
-[youtube-cameras]: https://www.youtube.com/channel/UC-D1BZtB-ifRhxLmRq1y-Ug
 [linkedin]: https://www.linkedin.com/in/luisgluna/
 [instagram]: https://www.instagram.com/davide.benvegnu
-[patreon]: https://patreon.com/CoderDave
-[paypal]: https://paypal.me/dabenveg
-[buymeacoffee]: https://buymeacoffee.com/CoderDave
-[githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
-[podcast]: https://geni.us/cdpodcast
-[discord]: https://discord.gg/sJFmYC9TXb
+
 
 <!--
 **n3wt0n/n3wt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
