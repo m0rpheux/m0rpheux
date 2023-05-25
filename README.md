@@ -97,14 +97,14 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 </details>
 
-[website]: https://www.davidebenvegnu.com
+[website]: https://www.luisgluna.com
 [cdwebsite]: https://coderdave.io
 [blog]: https://dev.to/n3wt0n
 [twitter]: https://twitter.com/davidebenvegnu
 [youtube]: https://www.youtube.com/CoderDave
 [youtube-personal]: https://www.youtube.com/DavideBenvegnu
 [youtube-cameras]: https://www.youtube.com/channel/UC-D1BZtB-ifRhxLmRq1y-Ug
-[linkedin]: https://linkedin.com/in/davidebenvegnu
+[linkedin]: https://www.linkedin.com/in/luisgluna/
 [instagram]: https://www.instagram.com/davide.benvegnu
 [patreon]: https://patreon.com/CoderDave
 [paypal]: https://paypal.me/dabenveg
