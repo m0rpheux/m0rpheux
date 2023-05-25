@@ -1,10 +1,5 @@
 ### Hi there, I'm [Luis '_m0rpheux_' Luna][website] 👋 💻
 
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube_@CoderDave-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/CoderDave?sub_confirmation=1) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/davidebenvegnu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidebenvegnu&screen_name=n3wt0n)
-[![Discord](https://img.shields.io/discord/819034800773267467?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]
-[![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
-
 ## I'm a DevOps Lead, a Software Engineer, a Speaker, and a YouTuber!
 
 I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github), I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I have been awarded as Microsoft MVP in 2015, 2016, 2017, and 2022.
