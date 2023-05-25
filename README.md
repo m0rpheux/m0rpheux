@@ -97,7 +97,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 </details>
 
-[website]: https://www.luisgluna.com
+[website]: https://luisgluna.com/
 [cdwebsite]: https://coderdave.io
 [blog]: https://dev.to/n3wt0n
 [twitter]: https://twitter.com/davidebenvegnu
