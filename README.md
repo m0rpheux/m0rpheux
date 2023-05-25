@@ -73,7 +73,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 :zap: GitHub Stats
 
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m0rpheux&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="m0rpheux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m0rpheux&show_icons=true&hide_border=true&count_private=true" />
 
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
