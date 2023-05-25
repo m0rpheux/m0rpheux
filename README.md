@@ -17,10 +17,8 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 <br />
 
 ### Support me:
-[<img align="left" alt="Patreon" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/patreon.svg" />][patreon]
 [<img align="left" alt="Buy Me a Coffee" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/buymeacoffee.svg" />][buymeacoffee]
 [<img align="left" alt="PayPal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/paypal.svg" />][paypal]
-[<img align="left" alt="GitHub Sponsor" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/github-mona.svg" />][githubsponsor]
 <br />
 
 ### Languages and Tools:
