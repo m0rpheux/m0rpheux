@@ -44,11 +44,6 @@ I have been working with .NET since its first introduction. Currently I am the _
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://www.youtube.com/watch?v=vNb-NAogQUc)
-- [ChatGPT and DevOps - This Changes Everything &lpar;feat DALL-E&rpar;](https://www.youtube.com/watch?v=oic6yQL8myc)
-- [A Centralized Control Center for Azure DevOps! ft. Vinicius Moura](https://www.youtube.com/watch?v=VkoZLw56bhw)
-- [Your code to GitHub in ONE Click with Visual Studio Code &lpar;VSCode Tutorial&rpar;](https://www.youtube.com/watch?v=shP-3p-2m6g)
-- [Ask Me Anything LIVE: DevOps, GitHub, Azure DevOps &lpar;10k Subs Special Q&amp;A&rpar;](https://www.youtube.com/watch?v=44PoWwStc7s)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...]
@@ -58,11 +53,6 @@ I have been working with .NET since its first introduction. Currently I am the _
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
-- [I Let A.I. Do DevOps - This Is What Happened &lpar;feat ChatGPT and DALL-E&rpar;](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
-- [A Centralized Control Center for Azure DevOps!](https://dev.to/n3wt0n/a-centralized-control-center-for-azure-devops-dbk)
-- [Create a New GitHub Repo in 1 CLICK from VSCode](https://dev.to/n3wt0n/create-a-new-github-repo-in-1-click-vscode-29ae)
-- [Ask Me Anything: DevOps, GitHub and Azure DevOps &lpar;10k subs special LIVE&rpar;](https://dev.to/n3wt0n/ask-me-anything-devops-github-and-azure-devops-10k-subs-special-live-lpe)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
