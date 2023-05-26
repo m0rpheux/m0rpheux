@@ -51,7 +51,7 @@ I have been working with .NET since its first introduction. Currently I am the _
 - [Ask Me Anything LIVE: DevOps, GitHub, Azure DevOps &lpar;10k Subs Special Q&amp;A&rpar;](https://www.youtube.com/watch?v=44PoWwStc7s)
 <!-- YOUTUBE:END -->
 
-▶ [more videos...][youtube]
+▶ [more videos...]
 
 ---
 
