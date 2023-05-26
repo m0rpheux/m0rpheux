@@ -6,10 +6,6 @@
 
 I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github),
 
-I publish a lot of __technical videos about DevOps, GitHub and Azure DevOps__ on my [YouTube Channel: CoderDave](https://youtube.com/CoderDave)
-
-I also like to make non-technical cinematic-looking videos, take a look at my [personal YouTube Channel](https://youtube.com/DavideBenvegnu)
-
 ### Connect with me:
 
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
@@ -87,7 +83,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 </details>
 
 [website]: https://luisgluna.com/
-[blog]: https://dev.to/n3wt0n
+[blog]: https://dev.to/m0rpheux
 [twitter]: https://twitter.com/davidebenvegnu
 [linkedin]: https://www.linkedin.com/in/luisgluna/
 [instagram]: https://www.instagram.com/davide.benvegnu
