@@ -2,9 +2,8 @@
 
 ### Hi there, I'm [Luis '_m0rpheux_' Luna][website] 👋 💻
 
-## I'm a DevOps Lead, a Software Engineer, a Speaker, and a YouTuber!
+##
 
-I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github),
 
 ### Connect with me:
 
