@@ -73,9 +73,9 @@
 
 [website]: https://luisgluna.com/
 [blog]: https://dev.to/m0rpheux
-[twitter]: https://twitter.com/davidebenvegnu
+[twitter]: https://twitter.com/Iph0xx
 [linkedin]: https://www.linkedin.com/in/luisgluna/
-[instagram]: https://www.instagram.com/davide.benvegnu
+[instagram]: https://www.instagram.com/m0rpheux
 [buymeacoffee]: https://www.buymeacoffee.com/luisgluna
 
 <!--
