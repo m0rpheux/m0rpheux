@@ -13,11 +13,6 @@
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
 <br />
 
-### Support me:
-[<img align="left" alt="Buy Me a Coffee" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/buymeacoffee.svg" />][buymeacoffee]
-[<img align="left" alt="PayPal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/paypal.svg" />][paypal]
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
