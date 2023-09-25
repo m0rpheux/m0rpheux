@@ -12,12 +12,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
 <br />
-
-
-
-<br />
-<br />
-
 ---
 
 ### 🎥 Latest YouTube Videos
